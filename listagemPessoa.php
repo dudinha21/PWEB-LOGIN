@@ -1,6 +1,6 @@
 <?php
 
-require_once 'Classes/pessoas.php';
+require_once 'pessoas.php';
 $p = new pessoa;
 
 
