@@ -18,7 +18,7 @@ else{
     echo "erro na conexão";
 }
 
-header("location: busca.html");
+
 
     
 ?>
